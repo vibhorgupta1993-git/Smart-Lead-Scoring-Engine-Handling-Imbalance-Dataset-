@@ -37,4 +37,5 @@ The dataset contain two classes 0 and 1. The number of samples in 0 class is 371
 # Run Code
 For Random Forest
 '''
-python 
+python Random_Forest.py
+'''
