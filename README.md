@@ -29,5 +29,5 @@ The dataset contain two classes 0 and 1. The number of samples in 0 class is 371
 8. Performance Metric: F1   
 
 # DNN architecture
-https://github.com/vibhorgupta1993-git/Smart-Lead-Scoring-Engine-Handling-Imbalance-Dataset-/blob/main/Architecture_D2C.png
+![Screenshot](https://github.com/vibhorgupta1993-git/Smart-Lead-Scoring-Engine-Handling-Imbalance-Dataset-/blob/main/Architecture_D2C.png)
 
