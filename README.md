@@ -13,7 +13,7 @@ Now, the marketing & sales team wants to identify the leads who are more likely 
 Now, as a data scientist, your task at hand is to predict the propensity to buy a product based on the user's past activities and user level information.
 
 # Dataset Description
-The dataset contain two classes 0 and 1. The number of samples in 0 class is 37163 abd in 1 class is 1998 (Imbalance Dataset). For this we have selected performance metric as F1 score as dataset is imbalance.
+The dataset contain two classes 0 and 1. The number of samples in 0 class is 37163 and in 1 class is 1998 (Imbalance Dataset). For this we have selected performance metric as F1 score as dataset is imbalance.
 
 # Solution approach
 1. we tried to balance the dataset by oversampling [SMOTE].
