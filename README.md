@@ -12,4 +12,4 @@ Now, the marketing & sales team wants to identify the leads who are more likely 
 
 Now, as a data scientist, your task at hand is to predict the propensity to buy a product based on the user's past activities and user level information.
 
-
+## The dataset contain two classes 0 and 1. The number of samples in 0 class is 37163 abd in 1 class is 1998.
