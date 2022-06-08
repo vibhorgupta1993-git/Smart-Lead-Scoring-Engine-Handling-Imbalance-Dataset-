@@ -34,3 +34,7 @@ The dataset contain two classes 0 and 1. The number of samples in 0 class is 371
 # Result (Classification report)
 ![Screenshot](https://github.com/vibhorgupta1993-git/Smart-Lead-Scoring-Engine-Handling-Imbalance-Dataset-/blob/main/Results_D2c.png)
 
+# Run Code
+For Random Forest
+'''
+python 
