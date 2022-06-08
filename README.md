@@ -39,3 +39,7 @@ For Random Forest
 ```
 python Random_Forest.py
 ```
+For DNN 
+```
+python D2c_cehck.py
+```
